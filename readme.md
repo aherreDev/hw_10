@@ -1,4 +1,6 @@
-# Se cicla :(
+# Tarea
+
+### Se cicla :(
 
 (La simulación se correrá en Node.Js)
 Se tiene un procesador multitarea que recibe y atiende los procesos dedicando un ciclo de procesamiento a cada tarea que esta en la lista de ejecución.
