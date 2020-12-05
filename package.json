@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/aherreDev/hw_10/issues"
   },
-  "homepage": "https://github.com/aherreDev/hw_10#readme"
+  "homepage": "https://github.com/aherreDev/hw_10#readme",
+  "dependencies": {}
 }
