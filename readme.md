@@ -1,3 +1,7 @@
+# Tarea
+
+### TODO: Arreglar ciclado :(
+
 (La simulación se correrá en Node.Js)
 Se tiene un procesador multitarea que recibe y atiende los procesos dedicando un ciclo de procesamiento a cada tarea que esta en la lista de ejecución.
 Cada nuevo proceso se guarda en una estructura tipo LISTA CIRCULAR, y ahí permanece mientras esta siendo atendido, hasta que su contador de ciclos se termina y entonces es eliminado de la estructura.
